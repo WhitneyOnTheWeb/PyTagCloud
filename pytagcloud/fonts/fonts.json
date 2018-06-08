@@ -100,8 +100,98 @@
         "web": "http://fonts.googleapis.com/css?family=Coustard"
 	},
 	{
-        "name": "PT Sans Regular",
-        "ttf": "PT_Sans-Regular.ttf",
-        "web": "http://fonts.googleapis.com/css?family=PT+Sans"
-    }
+		"name": "PT Sans Regular",
+		"ttf": "PT_Sans-Regular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=PT+Sans"
+	},
+	{
+		"name": "Aldrich",
+		"ttf": "Aldrich-Regular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Aldrich"
+	},
+	{
+		"name": "Averia Serif Libre",
+		"ttf": "AveriaSerifLibre-Regular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Averia+Serif+Libre"
+	},
+	{
+		"name": "Roboto Mono",
+		"ttf": "RobotoMono-Bold.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Roboto+Mono"
+	},
+	{
+		"name": "Indie Flower",
+		"ttf": "IndieFlower.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Indie+Flower"
+	},
+	{
+		"name": "Satisfy",
+		"ttf": "Satisfy-REgular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Satisfy"
+	},
+	{
+		"name": "Homemade Apple",
+		"ttf": "HomemadeApple-Regular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Homemade+Apple"
+	},
+	{
+		"name": "BioRhyme",
+		"ttf": "BioRhyme-Regular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=BioRhyme"
+	},
+	{
+		"name": "Bitter",
+		"ttf": "Bitter-Regular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Bitter"
+	},
+	{
+		"name": "Calligraffitti",
+		"ttf": "Calligraffitti-Regular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Calligraffitti"
+	},
+	{
+		"name": "IBM Plex Mono",
+		"ttf": "IBMPlexMono-SemiBold.ttf",
+		"web": "http://fonts.googleapis.com/css?family=IBM+Plex+Mono:600"
+	},
+	{
+		"name": "Indie Flower",
+		"ttf": "IndieFlower.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Indie+Flower"
+	},
+	{
+		"name": "Inknut Antiqua",
+		"ttf": "InknutAntiqua-SemiBold.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Inknut+Antiqua:600"
+	},
+	{
+		"name": "Karla",
+		"ttf": "Karla-Regular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Karla"
+	},
+	{
+		"name": "Open Sans",
+		"ttf": "OpenSans-Bold.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Open+Sans:700"
+	},
+	{
+		"name": "Pompiere",
+		"ttf": "Pompiere-Regular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Pompiere"
+	},
+	{
+		"name": "Proza Libre",
+		"ttf": "ProzaLibre-SemiBold.ttf",
+		"web": "http://fonts.googleapis.com/css?family=ProzaLibre:600"
+	},
+	{
+		"name": "Space Mono",
+		"ttf": "SpaceMono-Bold.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Space+Mono:700"
+	},
+	{
+		"name": "Special Elite",
+		"ttf": "SpecialElite-Regular.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Special+Elite"
+	}
 ]
